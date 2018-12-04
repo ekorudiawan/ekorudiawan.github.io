@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Desain Sistem Pengatur Lampu Lalu Lintas dengan Identifikasi Kepadatan Kendaraan Menggunakan Metode Subtraction"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
